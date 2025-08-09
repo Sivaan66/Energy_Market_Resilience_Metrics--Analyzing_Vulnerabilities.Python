@@ -23,6 +23,16 @@ The goal is to provide a data-driven understanding of the company's performance 
 
 ---
 
+## Tools Used
+
+1.  **Python**
+2.  **`Matplotlib.pyplot` as plt**
+3.  **`Pandas` as pd**
+4.  **Seaborn as srn**
+5.  **NumPy as np**
+
+---
+
 ## Steps Used
 
 1.  **Import of .csv File:** Importing .csv file in Notebook
