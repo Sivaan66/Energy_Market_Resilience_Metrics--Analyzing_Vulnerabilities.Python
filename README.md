@@ -49,28 +49,38 @@ The following KPIs were calculated from the merged datasets:
 
 ### Demand Gap Over Time
 ![Demand Gap Over Time](visualisation/demand_gap_plot.png)  
-**Analysis:** The company consistently experiences periods of both energy surplus and energy deficit. This indicates that Energix Enterprise is not effectively matching its energy production with market demand.  
-**Conclusion:** The company experiences significant volatility in its supply and demand, indicating a need for better forecasting and production planning.
+**Analysis:** 
+- The company consistently experiences periods of both energy surplus and energy deficit. This indicates that Energix Enterprise is not effectively matching its energy production with market demand.
+
+**Conclusion:**
+- The company experiences significant volatility in its supply and demand, indicating a need for better forecasting and production planning.
 
 ### Cost per kWh vs. Regulation Impact
 ![Cost per kWh vs. Regulation Impact](visualisation/cost_per_kwh_vs_regulation.png)  
 **Analysis:** 
 - The median for "Regulation Impact" appears to be slightly higher than the median for "No Regulation Impact.
-- The box and whiskers for the "Regulation Impact" group are noticeably longer and more spread out.  
-**Conclusion:** While the difference in typical cost might be small, regulatory changes introduce a significant amount of financial instability and risk into the company's cost structure.
+- The box and whiskers for the "Regulation Impact" group are noticeably longer and more spread out.
+
+**Conclusion:** 
+- While the difference in typical cost might be small, regulatory changes introduce a significant amount of financial instability and risk into the company's cost structure.
 
 ### Compliance cost vs. Regulation Impact
-![Compliance cost vs. Regulation Impact](visualisations/Compliance cost_plot.png)  
+![Compliance cost vs. Regulation Impact](visualisation/Compliance_cost_plot.png)  
 **Analysis:** The compliance cost of the company changes dramatically over regulations. It reaches the spike at the time of regulatory impacts.  
-**Conclusion:** Indicates that  company needs a more proactive strategy to manage compliance and its associated costs, rather than reacting to each new regulation as it occurs.
+
+**Conclusion:** 
+- Indicates that  company needs a more proactive strategy to manage compliance and its associated costs, rather than reacting to each new regulation as it occurs.
 
 ### Tech limitation vs compliance cost
 ![Tech limitation vs compliance cost](visualisations/tech_limitation_vs_compliance_cost.png)   
 **Analysis:** 
 - When the Tech Limitation Score is low (at 1 on the x-axis), the compliance costs are also generally low and not widely scattered. 
 - As the Tech Limitation Score increases, the costs become much more unpredictable. At a score of 2, the compliance costs show a wide range of values.
-- At a score of 3 (high tech limitation), the compliance costs are consistently very high.  
-**Conclusion:** The plot strongly suggests a positive correlation between technology limitations and compliance costs. **This provides clear evidence that modernizing your infrastructure is not just about efficiency but is also a critical factor in controlling regulatory expenses.**
+- At a score of 3 (high tech limitation), the compliance costs are consistently very high.
+
+**Conclusion:**
+- The plot strongly suggests a positive correlation between technology limitations and compliance costs.
+- **This provides clear evidence that modernizing your infrastructure is not just about efficiency but is also a critical factor in controlling regulatory expenses.**
 
 ---
 
