@@ -72,7 +72,7 @@ The following KPIs were calculated from the merged datasets:
 - Indicates that  company needs a more proactive strategy to manage compliance and its associated costs, rather than reacting to each new regulation as it occurs.
 
 ### Tech limitation vs compliance cost
-![Tech limitation vs compliance cost](visualisations/tech_limitation_vs_compliance_cost.png)   
+![Tech limitation vs compliance cost](https://github.com/Sivaan66/Energy_Market_Resilience_Metrics--Analyzing_Vulnerabilities.Python-/blob/6b41d9243d6443bd395069ecbb5c1e178085d0f7/Visualisation/tech_limitation_vs_compliance_cost.png)   
 **Analysis:** 
 - When the Tech Limitation Score is low (at 1 on the x-axis), the compliance costs are also generally low and not widely scattered. 
 - As the Tech Limitation Score increases, the costs become much more unpredictable. At a score of 2, the compliance costs show a wide range of values.
