@@ -56,7 +56,7 @@ The following KPIs were calculated from the merged datasets:
 - The company experiences significant volatility in its supply and demand, indicating a need for better forecasting and production planning.
 
 ### Cost per kWh vs. Regulation Impact
-![Cost per kWh vs. Regulation Impact](visualisation/cost_per_kwh_vs_regulation.png)  
+![Cost per kWh vs. Regulation Impact](https://github.com/Sivaan66/Energy_Market_Resilience_Metrics--Analyzing_Vulnerabilities.Python-/blob/a030b541e2695cba6ad401560d0d886b7bab6178/Visualisation/cost_per_kwh_vs_regulation.png))  
 **Analysis:** 
 - The median for "Regulation Impact" appears to be slightly higher than the median for "No Regulation Impact.
 - The box and whiskers for the "Regulation Impact" group are noticeably longer and more spread out.
