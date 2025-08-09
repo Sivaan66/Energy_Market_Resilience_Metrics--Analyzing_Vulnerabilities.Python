@@ -65,7 +65,7 @@ The following KPIs were calculated from the merged datasets:
 - While the difference in typical cost might be small, regulatory changes introduce a significant amount of financial instability and risk into the company's cost structure.
 
 ### Compliance cost vs. Regulation Impact
-![Compliance cost vs. Regulation Impact](visualisation/Compliance_cost_plot.png)  
+![Compliance cost vs. Regulation Impact](https://github.com/Sivaan66/Energy_Market_Resilience_Metrics--Analyzing_Vulnerabilities.Python-/blob/0a81867684486b2e0f1c6ce38acefa677fa734be/Visualisation/compliance_cost_plot.png)  
 **Analysis:** The compliance cost of the company changes dramatically over regulations. It reaches the spike at the time of regulatory impacts.  
 
 **Conclusion:** 
