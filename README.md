@@ -48,7 +48,7 @@ The following KPIs were calculated from the merged datasets:
 ## Visualizations and Key Conclusions
 
 ### Demand Gap Over Time
-![Demand Gap Over Time](visualisation/demand_gap_plot.png)  
+![Demand Gap Over Time](https://github.com/Sivaan66/Energy_Market_Resilience_Metrics--Analyzing_Vulnerabilities.Python-/blob/056f4ecc4cb35348a2177cd4f5c642d4dfbddc4f/Visualisation/demand_gap_plot.png)  
 **Analysis:** 
 - The company consistently experiences periods of both energy surplus and energy deficit. This indicates that Energix Enterprise is not effectively matching its energy production with market demand.
 
