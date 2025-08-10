@@ -38,10 +38,10 @@ The goal is to provide a data-driven understanding of the company's performance 
 1.  **Import of .csv File:** Importing .csv file in Notebook
 2.  **Exploratory Data Analysis:** Performing EDA to correct Date/Time format and imputation.
 3.  **Merging all Cleaned Datasets:** Merging all the 4 datasets to make one dataset for analysis and calculations.
-4.  **KPIs selection** Finding and selecting important KPIs suitable for solving the business problems.
-5.  **KPI Integration to Dataset** Integrating KPI as columns into the dataset with corresponding rows
-6.  **Visualisation** Analysis through data visualisation.
-7.  **File import** Importing merged KPI dataset
+4.  **KPIs selection:** Finding and selecting important KPIs suitable for solving the business problems.
+5.  **KPI Integration to Dataset:** Integrating KPI as columns into the dataset with corresponding rows
+6.  **Visualisation:** Analysis through data visualisation.
+7.  **File import:** Importing merged KPI dataset
 ---
 
 ## Key Performance Indicators (KPIs) Used
